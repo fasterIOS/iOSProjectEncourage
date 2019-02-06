@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>922740795894-pcdrj3aoq171uaeu723covthqaecopke.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922740795894-pcdrj3aoq171uaeu723covthqaecopke</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6GUr-j4iy5G7YBiy2pj2Vb1EucoSMT1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922740795894</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.encourage.iosapp</string>
+	<key>PROJECT_ID</key>
+	<string>encourage-777ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>encourage-777ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922740795894:ios:8c2b432c061fd502</string>
+	<key>DATABASE_URL</key>
+	<string>https://encourage-777ad.firebaseio.com</string>
+</dict>
+</plist>
